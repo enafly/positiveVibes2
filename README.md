@@ -1,7 +1,7 @@
 # positiveVibes2
 >>## Spirala 4
 <br>
->####I : Urađeno je sve osim pod f)<br>Link deploymenta na Openshiftu, bio nekad, istekao mi account 27.01.1017., ponovo sam se registrovala, sada bazu pokušavam deployati:(http://positive-vibes-positivevibes.44fs.preview.openshiftapps.com)<br>Baza: wt4.sql
+>####I : Urađeno je sve osim pod f)<br>Link deploymenta na Openshiftu, bio nekad, istekao mi account 27.01.1017., ponovo sam se registrovala, sada bazu pokušavam deployati, 8 puta sam probala ponovo deploy uraditi, neće. Tri puta sam brisala i ponovo postavljala i neće, stvarno nemam više ideja. Radila sam sa uputama sa c2, sa uputama koje su kolege postavljale i ništa. Ostavila sam samo evo da se vidi sa sam stranicu deployala, ali pola stvari ne radi jer ne mogu bazu..:(http://positive-vibes-positivevibes.44fs.preview.openshiftapps.com/)<br>Baza: wt4.sql
 >####II: / 
 >####III: /
 >####IV: /
